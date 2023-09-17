@@ -1,0 +1,3 @@
+This is a maven proyect for the E2E test
+open the project in Eclipse and execute the project as Maven Test
+The report is in /target/surefire-reports/html/extent.html

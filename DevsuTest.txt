@@ -1,0 +1,8 @@
+This is the karate project
+Open the project in Eclipse
+Go to \src\test\java\tests\TestRunner.java
+and execute the file TestRunner.java
+
+the html report report is in
+/target/karate-reports/tests.User.html
+
